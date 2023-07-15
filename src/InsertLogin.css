@@ -1,0 +1,17 @@
+/* Custom CSS styles for the InsertLogin component */
+.insert-login-container {
+    background-color: #c6d3d5; /* Set background color */
+  }
+  
+  .form-label {
+    color: #333; /* Set label text color */
+  }
+  
+  .btn-primary {
+    background-color: #007bff; /* Set button background color */
+    border-color: #007bff; /* Set button border color */
+    color: #fff; /* Set button text color */
+  }
+  
+  /* Add more custom styles as needed */
+  
