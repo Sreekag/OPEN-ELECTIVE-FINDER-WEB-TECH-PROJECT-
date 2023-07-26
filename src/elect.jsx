@@ -32,7 +32,7 @@ const Elect = () => {
       <br /><br />
       <div className="row">
         <div className="col-lg-6 mt-5 ml-5">
-          <h4 style={{ textAlign: 'left', color: 'orange' }}><b>WHY DO WE NEED ELECTRICAL SAFETY?</b></h4><br />
+          <h4 style={{ textAlign: 'left', color: 'pink' }}><b>WHY DO WE NEED ELECTRICAL SAFETY?</b></h4><br />
           <h6>
             Direct contact with exposed energized conductors or circuit parts. When electrical current travels through our bodies, it can interfere with the normal electrical signals between the brain and our muscles (e.g., heart may stop beating properly, breathing may stop, or muscles may spasm)
             When the electricity arcs (jumps, or "arcs") from an exposed energized conductor or circuit part (e.g., overhead power lines) through a gas (such as air) to a person who is grounded (that would provide an alternative route to the ground for the electrical current)
